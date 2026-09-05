@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marketing.qd.je/sitemap.xml
+Sitemap: https://marketing.qd.je/sitemap.html
